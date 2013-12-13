@@ -2,6 +2,8 @@
 
 Some clojurehadoop examples
 
+See also: https://github.com/michael-trelinski/clojurehadoop
+
 ## License
 
 Copyright © 2013 Michael Trelinski
